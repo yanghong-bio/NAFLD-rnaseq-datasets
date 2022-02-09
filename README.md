@@ -1,4 +1,4 @@
-The repo created for the datasets used in the [publication](https://www.sciencedirect.com/science/article/pii/S2589004221011901?via%3Dihub):Yang, Hong, et al.Iscience 24.11 (2021): 103222.
+The repo created for the datasets used in the [publication](https://www.sciencedirect.com/science/article/pii/S2589004221011901?via%3Dihub):Yang, Hong, et al.*Iscience* 24.11 (2021): 103222.
 
 **Data retrieving and pre-processing:**
 
